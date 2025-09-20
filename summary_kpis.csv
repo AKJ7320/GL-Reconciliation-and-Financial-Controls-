@@ -1,0 +1,18 @@
+kpi,value
+gl_count,9851
+bank_count,9876
+matched,9567
+match_rate_pct,97.12
+open_exceptions,593
+high_value_escalations,203
+pass_P1-EXACT,9004
+pass_P2-TIMING,344
+pass_P3-AMOUNT-TOL,219
+cat_MISSING IN BANK,244
+catval_MISSING IN BANK,121379595.58
+cat_MISSING IN GL,189
+catval_MISSING IN GL,107072554.26
+cat_DUPLICATE POSTING,40
+catval_DUPLICATE POSTING,15888243.09
+cat_MISSING IN GL - BANK CHARGES,120
+catval_MISSING IN GL - BANK CHARGES,1509873.77

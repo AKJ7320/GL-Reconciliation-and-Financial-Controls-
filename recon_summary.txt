@@ -1,0 +1,22 @@
+==============================================================
+        BANK RECONCILIATION SUMMARY  |  As of 2025-08-20
+==============================================================
+GL transactions            :      9,851
+Bank statement lines       :      9,876
+Matched pairs              :      9,567
+AUTO-MATCH RATE            :     97.12 %
+--------------------------------------------------------------
+Match waterfall:
+  P1-EXACT          : 9,004
+  P2-TIMING         : 344
+  P3-AMOUNT-TOL     : 219
+--------------------------------------------------------------
+Open exceptions by category:
+  MISSING IN BANK                 :   244 items | INR  121,379,595.58
+  MISSING IN GL                   :   189 items | INR  107,072,554.26
+  DUPLICATE POSTING               :    40 items | INR   15,888,243.09
+  MISSING IN GL - BANK CHARGES    :   120 items | INR    1,509,873.77
+--------------------------------------------------------------
+High-value exceptions (>= INR 1L) escalated to L2: 203
+Total open exceptions      : 593
+==============================================================
